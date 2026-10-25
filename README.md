@@ -41,22 +41,25 @@ Beshta analog bilan ekspert taqqoslashida **35 balldan 32 ball — 1-o‘rin**.
 
 1. **[geosayyoh.apk](https://github.com/MSoqiy/geosayyoh/raw/main/apk/geosayyoh.apk)** faylini yuklab oling (APK papkasi — [apk/](https://github.com/MSoqiy/geosayyoh/tree/main/apk)).
 2. Faylni oching; telefon so‘rasa, «Noma'lum manbalardan o‘rnatish»ga ruxsat bering.
-3. «O‘rnatish»ni bosing. Birinchi ishga tushirishda ovoz modellari yuklanadi, keyin ilova internetsiz ishlaydi.
+3. «O‘rnatish»ni bosing.
 
 ## Ekranlar
 
-<img src="screenshots/geosayyoh-2.png" alt="GeoSayyoh — Geografiya" width="100%">
+<div align="center">
 
+<img src="screenshots/geosayyoh-2.png" alt="GeoSayyoh — Geografiya" width="100%">
 <img src="screenshots/geosayyoh-3.png" alt="GeoSayyoh — Geografiya" width="100%">
+
+</div>
 
 ## English
 
-**GeoSayyoh** — Geography game for ages 6–12: a spaceship lands on a 3D globe and asks “Where is this place?” — answer by voice in Uzbek. Free, ad-free, works offline. Part of the *Aqlli o‘yin — bilimli avlod* (Smart games — knowledgeable generation) collection of Uzbek educational apps.
+**GeoSayyoh** — Geography game for ages 6–12: a spaceship lands on a 3D globe and asks “Where is this place?” — answer by voice in Uzbek. Free, ad-free. Part of the «Ta'limiy o‘yinlar» collection by Mamasaidov M.A..
 
 ---
 
-**Muallif:** Mamasaidov M.A. — Toshkent shahar Mirzo Ulug‘bek markazi o‘qituvchisi · Tetrasoft · ✉ soqiy65@gmail.com · 🌐 https://msoqiy.github.io
+**Muallif:** Mamasaidov M.A. — Toshkent shahar Mirzo Ulug‘bek markazi o‘qituvchisi · Tetrasoft · ✉ soqiy65@gmail.com · 🌐 https://msoqiy.github.io · «[Ta'limiy o‘yinlar](https://msoqiy.github.io/oyinlar/)»
 
-**Boshqa ilovalar:** [Otin buvi](https://github.com/MSoqiy/otin-buvi) · [Donish bobo](https://github.com/MSoqiy/donish-bobo) · [Bayon AI](https://github.com/MSoqiy/bayon-ai) · [Tilbilgich En AI](https://github.com/MSoqiy/tilbilgich-en) · [Tilbilgich Fr AI](https://github.com/MSoqiy/tilbilgich-fr) · [Tilbilgich De AI](https://github.com/MSoqiy/tilbilgich-de) · [Tilbilgich Ar AI](https://github.com/MSoqiy/tilbilgich-ar) · [Aljabr](https://github.com/MSoqiy/aljabr)
+**Boshqa ilovalar:** [Otin buvi](https://github.com/MSoqiy/otin-buvi) · [Donish bobo](https://github.com/MSoqiy/donish-bobo) · [Bayon AI](https://github.com/MSoqiy/bayon-ai) · [Tilbilgich En AI](https://github.com/MSoqiy/tilbilgich-en) · [Tilbilgich Fr AI](https://github.com/MSoqiy/tilbilgich-fr) · [Tilbilgich De AI](https://github.com/MSoqiy/tilbilgich-de) · [Tilbilgich Ar AI](https://github.com/MSoqiy/tilbilgich-ar) · [Aljabr](https://github.com/MSoqiy/aljabr) · [So‘zla](https://github.com/MSoqiy/sozla)
 
-<sub>Kalit so‘zlar: geografiya o‘yini, geografiya bolalar uchun, davlatlar va poytaxtlar, O‘zbekiston viloyatlari, 3D globus, xarita o‘yini, qit'alar va okeanlar, география для детей на узбекском, игра страны и столицы, o‘zbekcha ta'limiy o‘yin, bolalar uchun ilova, android apk</sub>
+<sub>Kalit so‘zlar: geografiya o‘yini, geografiya bolalar uchun, davlatlar va poytaxtlar, O‘zbekiston viloyatlari, 3D globus, xarita o‘yini, qit'alar va okeanlar, география для детей на узбекском, игра страны и столицы, o‘zbekcha ta'limiy o‘yin, android apk</sub>
